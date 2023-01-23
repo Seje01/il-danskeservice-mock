@@ -1,6 +1,6 @@
 # il-danskeservice-mock
 
-created to test il-danske-service locally.
+created to test il-danskebank-service locally.
 
 # changes in application.yml
 ```
